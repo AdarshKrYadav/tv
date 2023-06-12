@@ -1,0 +1,26 @@
+#bedroom{
+    text-align: center;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    box-shadow: 10px 10px 10px darkslategray;
+    border-radius: 10px;
+    
+}
+.back{
+    float:right;
+    background-color: aqua;
+    color: blue;
+    font-size: 20px !important;
+    margin: 5px;
+    cursor: pointer;
+
+}
